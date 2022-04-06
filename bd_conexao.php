@@ -9,7 +9,7 @@ class conexao
     public function entrarbd()
     {
         $user = "root";
-        $password = "456951Fe";
+        $password = " ";
         $database = "formulario";
         $hostname = "localhost";
         $conexao = new conexao;
