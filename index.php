@@ -9,13 +9,13 @@
 
 <body>
 
-    <form action="" method="post">
+    <form action="bd_comandos.php" method="post">
 
         <label for="">Nome</label>
         <input type="text" name="nome">
         <label for="">email</label>
         <input type="email" name="email">
-        <input type="button" value="Enviar">
+        <input type="submit" value="Enviar">
 
     </form>
 
